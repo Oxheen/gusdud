@@ -6,4 +6,4 @@ b=20;
 printf("%d %d \n", a, b);
 printf(" %d %d \n", c, d);
 return 0;
-
+}
